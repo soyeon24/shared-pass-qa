@@ -1,10 +1,13 @@
 # Shared-Pass QA — LLM-First Question Answering over Long Documents
 
-> **AICOSS Summer School 2026 — Long-Context Challenge (DASU Capstone), 1st place.**
-> Entered as Team A (HARIBQ); this pipeline was designed and written by
-> [@soyeon24](https://github.com/soyeon24), the team lead.
-> This repository is the exact pipeline behind the winning submission (internally `v11_54`).
-> `results/final_submission.json` is the submitted answer set.
+> **THU AICOSS Industry Challenge 2026 — *Handling Large Documents in Chatbots***
+> **Awarded *Excellent Result* and *Best Project Team*.**
+>
+> Run at Technische Hochschule Ulm (THU) and provided by the Transfer Center for
+> Digitalization, Analytics and Data Science Ulm (DASU). Entered as Team A (HARIBQ);
+> this pipeline was designed and written by [@soyeon24](https://github.com/soyeon24),
+> the team lead, and is the exact system behind the winning submission (internally
+> `v11_54`). `results/final_submission.json` is the submitted answer set.
 >
 > The competition document and question set are third-party material and are not
 > redistributed here; `input/` is gitignored. Supply your own document and questions
@@ -271,9 +274,9 @@ tests/            Offline unit and integration tests
 
 ## Team
 
-Team A (HARIBQ), AICOSS Summer School 2026 capstone, sponsored by DASU.
+Team A (HARIBQ) — THU AICOSS Industry Challenge 2026, provided by DASU Ulm.
 
-- 박소연 Soyeon Park — [@soyeon24](https://github.com/soyeon24) — team lead
+- 박소연 Park Soyeon — [@soyeon24](https://github.com/soyeon24) — team lead
 - 정희균 Huigyun Jeong — [@Segyun](https://github.com/Segyun)
 - 정주연 Juyeon Jeong — [@siddl1020](https://github.com/siddl1020)
 - 임근탁 Geuntak Lim — [@KingTak7](https://github.com/KingTak7)
