@@ -1,7 +1,7 @@
 # Shared-Pass QA — LLM-First Question Answering over Long Documents
 
-> **THU AICOSS Industry Challenge 2026 — *Handling Large Documents in Chatbots***
-> **Awarded *Excellent Result* and *Best Project Team*.**
+> **🥇 1st place — THU AICOSS Industry Challenge 2026, *Handling Large Documents in Chatbots***
+> Awarded **Best Project Team**, with an individual **Excellent Result**.
 >
 > Run at Technische Hochschule Ulm (THU) and provided by the Transfer Center for
 > Digitalization, Analytics and Data Science Ulm (DASU). Entered as Team A (HARIBQ);
