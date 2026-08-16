@@ -269,6 +269,15 @@ requirements.txt  Python dependencies
 tests/            Offline unit and integration tests
 ```
 
+## Team
+
+Team A (HARIBQ), AICOSS Summer School 2026 capstone, sponsored by DASU.
+
+- 박소연 Soyeon Park — [@soyeon24](https://github.com/soyeon24) — team lead
+- 정희균 Huigyun Jeong — [@Segyun](https://github.com/Segyun)
+- 정주연 Juyeon Jeong — [@siddl1020](https://github.com/siddl1020)
+- 임근탁 Geuntak Lim — [@KingTak7](https://github.com/KingTak7)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
