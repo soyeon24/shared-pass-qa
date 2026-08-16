@@ -266,3 +266,15 @@ schemas.py        Pydantic data contracts
 requirements.txt  Python dependencies
 tests/            Offline unit and integration tests
 ```
+
+## Team
+
+Built by Team A (HARIBQ) for the AICOSS Summer School 2026 capstone, sponsored by DASU.
+
+- **Soyeon Park** ([@soyeon24](https://github.com/soyeon24)) — team lead; system design and implementation
+
+<!-- Add remaining teammates as: - **Name** ([@handle](https://github.com/handle)) — contribution -->
+
+## License
+
+MIT — see [LICENSE](LICENSE).
