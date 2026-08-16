@@ -1,6 +1,8 @@
 # Shared-Pass QA — LLM-First Question Answering over Long Documents
 
 > **AICOSS Summer School 2026 — Long-Context Challenge (DASU Capstone), 1st place.**
+> Entered as Team A (HARIBQ); this pipeline was designed and written by
+> [@soyeon24](https://github.com/soyeon24), the team lead.
 > This repository is the exact pipeline behind the winning submission (internally `v11_54`).
 > `results/final_submission.json` is the submitted answer set.
 >
@@ -266,14 +268,6 @@ schemas.py        Pydantic data contracts
 requirements.txt  Python dependencies
 tests/            Offline unit and integration tests
 ```
-
-## Team
-
-Built by Team A (HARIBQ) for the AICOSS Summer School 2026 capstone, sponsored by DASU.
-
-- **Soyeon Park** ([@soyeon24](https://github.com/soyeon24)) — team lead; system design and implementation
-
-<!-- Add remaining teammates as: - **Name** ([@handle](https://github.com/handle)) — contribution -->
 
 ## License
 
