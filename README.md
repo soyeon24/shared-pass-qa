@@ -1,4 +1,4 @@
-# LLM-First Shared-Pass MELT-QA
+# Shared-Pass QA — LLM-First Question Answering over Long Documents
 
 > **AICOSS Summer School 2026 — Long-Context Challenge (DASU Capstone), 1st place.**
 > This repository is the exact pipeline behind the winning submission (internally `v11_54`).

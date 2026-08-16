@@ -1,4 +1,4 @@
-# LLM-First Shared-Pass MELT-QA
+# Shared-Pass QA — LLM-First Question Answering over Long Documents
 
 ## Goal
 
